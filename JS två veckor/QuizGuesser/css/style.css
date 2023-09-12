@@ -1,0 +1,78 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+    transition: background-color 0.3s ease; /* Smidig övergång för bakgrundsfärgen */
+}
+
+.quiz-container {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    transition: box-shadow 0.3s ease; /* Smidig övergång för box-shadow */
+}
+
+h1 {
+    font-size: 24px;
+    color: #333;
+}
+
+#question-container {
+    margin: 20px 0;
+}
+
+#question-text {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+#options-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.option {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    background-color: #0074e4;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease; /* Smidig övergång för bakgrundsfärgen och transform (för animation) */
+}
+
+.option:hover {
+    background-color: #0052a4;
+}
+
+/* Lägg till en enkel animation när användaren klickar på ett svarsalternativ */
+.option:active {
+    transform: scale(0.95);
+}
+
+#score {
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+#message {
+    font-size: 16px;
+    font-weight: bold;
+    color: #f00;
+    margin-top: 10px;
+}
+
+#next-button {
+    padding: 10px 20px;
+    background-color: #0074e4;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+    margin-top

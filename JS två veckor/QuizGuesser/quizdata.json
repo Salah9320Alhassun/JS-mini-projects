@@ -1,0 +1,54 @@
+[
+    {
+        "question": "What stadium is the home ground for Manchester City FC?",
+        "options": ["Etihad Stadium", "Old Trafford", "Anfield", "Emirates Stadium"],
+        "correctAnswer": "Etihad Stadium"
+    },
+    {
+        "question": "Who is the current manager of Manchester City FC in 2023?",
+        "options": ["Pep Guardiola", "Jurgen Klopp", "Carlo Ancelotti", "Thomas Tuchel"],
+        "correctAnswer": "Pep Guardiola"
+    },
+    {
+        "question": "Which player is the all-time top scorer for Manchester City FC?",
+        "options": ["Sergio Agüero", "David Silva", "Thierry Henry", "Yaya Touré"],
+        "correctAnswer": "Sergio Agüero"
+    },
+    {
+        "question": "In which year did Manchester City FC win their first Premier League title?",
+        "options": ["2012", "2008", "2010", "2015"],
+        "correctAnswer": "2012"
+    },
+    {
+        "question": "Who is the captain of Manchester City FC in 2023?",
+        "options": ["Kevin De Bruyne", "Fernandinho", "Phil Foden", "Ruben Dias"],
+        "correctAnswer": "Kevin De Bruyne"
+    },
+    {
+        "question": "What was the transfer fee for Jack Grealish when he joined Manchester City in 2021?",
+        "options": ["£100 million", "£50 million", "£75 million", "£120 million"],
+        "correctAnswer": "£100 million"
+    },
+    {
+        "question": "How many Premier League titles have Manchester City FC won as of 2023?",
+        "options": ["7", "5", "8", "6"],
+        "correctAnswer": "7"
+    },
+    {
+        "question": "Which goalkeeper is known for his 'sweeper-keeper' style of play at Manchester City FC?",
+        "options": ["Ederson", "Alisson", "David De Gea", "Hugo Lloris"],
+        "correctAnswer": "Ederson"
+    },
+    {
+        "question": "In which year did Manchester City FC complete their first-ever domestic treble?",
+        "options": ["2018-2019", "2007-2008", "2013-2014", "2020-2021"],
+        "correctAnswer": "2018-2019"
+    },
+    {
+        "question": "Which playeris often referred to as the 'Blue Moon Rising' at Manchester City FC?",
+        "options": ["Phil Foden", "Raheem Sterling", "Bernardo Silva", "Liam Delap"],
+        "correctAnswer": "Phil Foden"
+    }
+
+    
+]
